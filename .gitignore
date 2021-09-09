@@ -1,0 +1,12 @@
+*
+!*/
+!*.*
+
+.vscode/
+*.dSYM/
+
+# Executables
+.exe
+.out
+.app
+.
